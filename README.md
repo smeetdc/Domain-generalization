@@ -224,7 +224,7 @@ Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.
 Fengchun Qiao, Long Zhao, Xi Peng.  
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2020.  
 
-- [Domain Generalization Using a Mixture of Multiple Latent Domains](https://aaai.org/Papers/AAAI/2020GB/AAAI-MatsuuraT.3100.pdf)  
+- [Domain Generalization Using a Mixture of Multiple Latent Domains](https://arxiv.org/abs/1911.07661)  
 Toshihiko Matsuura, Tatsuya Harada.  
 *AAAI Conference on Artificial Intelligence* (**AAAI**) 2020.  
 [[code]](https://github.com/mil-tokyo/dg_mmld)
